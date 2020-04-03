@@ -1,0 +1,14 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Javascript Postu",
+    "body": "Javascript post metni"
+  },
+  {
+    "userId": 2,
+    "id": 44,
+    "title": "Python Postu",
+    "body": "Python post metni"
+  }
+]
