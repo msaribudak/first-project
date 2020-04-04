@@ -1,0 +1,2 @@
+1- Angularjs ile yapılmış siteyi yüklerken uygulama dosyası mutlaka index. html olmalı yoksa çalışmıyor.
+2- Fake API ile kendi server'ımızı yaptık (typicode ile)
